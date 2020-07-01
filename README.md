@@ -10,18 +10,18 @@ Oferece Cursos gratuitos em diversas áreas.
 #### Imagens do site:
 
 <p align="center">
-  <img width="800" height="600" src="/public/img/prints(1).png">
+  <img width="800" height="600" src="/public/img/prints1.png">
 </p>
 
 ### 
 
 <p align="center">
-  <img width="800" height="600" src="/public/img/prints(2).png">
+  <img width="800" height="600" src="/public/img/prints2.png">
 </p>
 
 ### 
 
 <p align="center">
-  <img width="800" height="600" src="/public/img/prints(3).png">
+  <img width="800" height="600" src="/public/img/prints3.png">
 </p>
 
